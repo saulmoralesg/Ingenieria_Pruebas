@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_producto" value="name:idcatsec;datatype:int,name:gpo_serv;datatype:string,name:desc_area;datatype:string,name:desc_serv;datatype:string,name:cont_AGCIS;datatype:string,name:cod_AGCIS;datatype:string,name:cod_AGCIS_715;datatype:string,name:categoria;datatype:blob,name:esp_tron_o_serv;datatype:blob,name:esp_der;datatype:blob,name:gpo;datatype:string,name:sub_gpo;datatype:string,name:producto;datatype:blob,name:cod_inst;datatype:blob,name:unidad_medida;datatype:string" />
+</info>

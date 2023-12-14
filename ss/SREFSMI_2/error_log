@@ -1,0 +1,617 @@
+[23-Feb-2021 18:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 18:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:10:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del - copia.php(57): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(/conexion.php): failed to open stream: No such file or directory in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 58
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(/conexion.php): failed to open stream: No such file or directory in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 58
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(): Failed opening '/conexion.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 58
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(/Encabezado.php): failed to open stream: No such file or directory in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 60
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(/Encabezado.php): failed to open stream: No such file or directory in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 60
+[23-Feb-2021 19:22:02 UTC] PHP Warning:  include(): Failed opening '/Encabezado.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 60
+[23-Feb-2021 19:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 63
+[23-Feb-2021 19:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:26:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(16): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:35:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 19:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:02:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:03:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:03:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(67): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php on line 66
+[23-Feb-2021 20:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/pruebas.php(65): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:27:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:27:22 UTC] PHP Notice:  Undefined variable: n in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 143
+[23-Feb-2021 20:27:22 UTC] PHP Notice:  Undefined offset: 6 in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 223
+[23-Feb-2021 20:27:22 UTC] PHP Notice:  Undefined variable: msn in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 265
+[23-Feb-2021 20:34:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:34:02 UTC] PHP Notice:  Undefined variable: n in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 143
+[23-Feb-2021 20:34:02 UTC] PHP Notice:  Undefined offset: 6 in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 223
+[23-Feb-2021 20:34:02 UTC] PHP Notice:  Undefined variable: msn in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 265
+[23-Feb-2021 20:37:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:37:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:37:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:37:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:37:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:37:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:37:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:37:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:37:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:38:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:38:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:38:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: clp in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 11
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: cerrar in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 14
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: clp in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 31
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: grupo in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 31
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: especialidad in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 31
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: nregistros in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 39
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: clp in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 69
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: clues in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 70
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: nom_sec in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 71
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: nom_imss in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/guardar.php on line 72
+[23-Feb-2021 20:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: loginFormAction in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/unidades.php on line 67
+[23-Feb-2021 20:39:09 UTC] PHP Notice:  Undefined variable: i in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/unidades.php on line 170
+[23-Feb-2021 20:39:36 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:39:36 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:39:36 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:39:48 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:39:48 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:39:48 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:40:02 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:40:02 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:40:02 UTC] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: YES) in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/Connections/sectorial.php on line 9
+[23-Feb-2021 20:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php:4
+Stack trace:
+#0 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php(8): conectar()
+#1 /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php(58): include('/home/yb7duzade...')
+#2 {main}
+  thrown in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:50:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:50:16 UTC] PHP Notice:  Undefined variable: n in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 143
+[23-Feb-2021 20:50:16 UTC] PHP Notice:  Undefined offset: 6 in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 223
+[23-Feb-2021 20:50:16 UTC] PHP Notice:  Undefined variable: msn in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 265
+[23-Feb-2021 20:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:52:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:52:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:52:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:52:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 3
+[23-Feb-2021 20:52:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/indexunidades.php on line 70
+[23-Feb-2021 20:52:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:52:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/conexion.php on line 4
+[23-Feb-2021 20:52:46 UTC] PHP Notice:  Undefined variable: n in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 143
+[23-Feb-2021 20:52:46 UTC] PHP Notice:  Undefined offset: 6 in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 223
+[23-Feb-2021 20:52:46 UTC] PHP Notice:  Undefined variable: msn in /home/yb7duzaderse/public_html/imsscolaboracionsectorsalud.com/SREFSMI/del.php on line 265

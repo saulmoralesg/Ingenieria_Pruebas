@@ -1,0 +1,31 @@
+$ (function (){
+	$("#menu_ini").click(function(){
+		location.href="http://cpim.imss.gob.mx/cc/index_3.php";
+	});
+	$("#menu_normativa").click(function(){
+		location.href="http://172.25.0.32/ctim/normativa.php";
+	});
+
+	$("#menu_manuales").click(function(){
+		location.href="http://172.25.0.32/ctim/manuales.php";
+    });
+	
+	$("#menu_cm").click(function(){
+		location.href="http://172.25.0.32/ctim/CM/01 Generar CEPI Médica v1.4.xlsm";
+	});
+	
+	$("#menu_inventario").click(function(){
+		location.href="http://172.25.0.32/ctim/equipo/inis_inveq.php";
+	});
+
+	$("#menu_inises").click(function(){
+		location.href="http://172.25.0.32/ctim/inisesion.php";
+	});
+	
+	$("#menu_iniequi").click(function(){
+		location.href="http://172.25.0.32/ctim/index.php";
+	});
+	$("#cer_seseqp").click(function(){
+		location.href="http://172.25.0.32/ctim/equipo/cer_ses.php";
+	});
+});
